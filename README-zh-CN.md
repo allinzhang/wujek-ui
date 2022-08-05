@@ -1,9 +1,7 @@
-# wujek-ui 伍杰酷讯前端UI库
 
-  uniapp 自定义UI库
-
-  `wujek-ui` 属于vue组件
-
+<p align='center'>
+  <a href="https://github.com/allinzhang/wujek-ui/">English</a> | <b>简体中文</b>
+</p>
 ## uniapp 多端支持
 
 
