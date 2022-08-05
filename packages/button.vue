@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'WujekUiButton',
+  name: 'WujekButton',
   data () {
     return {}
   },
